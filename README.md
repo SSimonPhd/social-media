@@ -1,6 +1,6 @@
 # Social Media API
 
-build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using MongoDB.
+Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using MongoDB.
 
 1. Created repo
 1. Ran npm init
