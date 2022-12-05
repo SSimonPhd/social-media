@@ -5,7 +5,9 @@ Build an API for a social network web application where users can share their th
 1. Created repo
 1. Ran npm init
 1. Ran npm install 
-1. Coded JS & SQL files
+1. Coded controllers
+1. Coded models
+1. Coded routes
 1. Set up MongoDB
 1. Tested and debugged
 1. Uploaded working files to GitHub
