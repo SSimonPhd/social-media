@@ -10,13 +10,14 @@ Build an API for a social network web application where users can share their th
 1. Coded routes
 1. Set up MongoDB
 1. Tested and debugged
-1. Uploaded working files to GitHub
+1. Uploaded files to GitHub
 1. Created video demo
 1. Updated README
+1. BONUS: included Delete user and associated thoughts
 
 - URL to Video Demo
 
-Coming Soon!
+https://drive.google.com/file/d/1-1_27iRYeG3MzyjcZ2-iQGgVlb14Jx58/view
 
 - URL to GitHub Repo
 
